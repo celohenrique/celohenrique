@@ -9,10 +9,11 @@
 </div>
 </div>
 
-    ---
+---
   
 ### Hi there 👋
-### 💻_technologist: About Me :
+  
+### 💻 About Me :
   I'm a bachelor's student in computer engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
   
 - 🔭 I’m currently working on Apple Developer Academy as a iOS Developer
@@ -24,7 +25,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-    ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
