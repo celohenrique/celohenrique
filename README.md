@@ -38,3 +38,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+---
+ ### 🍎 Apps on AppStore: 
+  Sonnus App: Developed to help childs and adults have a better sleep. It was developed using SwiftUI and AVFoundation. 
+  https://apps.apple.com/ao/app/sonnus/id6443548611
+  
+  Eyes on you: 2D game developed using SpriteKit.
+  https://apps.apple.com/br/app/eyes-on-you/id1658391751?l=en
