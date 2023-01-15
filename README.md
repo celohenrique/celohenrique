@@ -39,7 +39,7 @@
 </div>
 
 ---
- ### 🍎 Apps on AppStore: 
+ ### 🍎 My Apps on AppStore: 
   Sonnus App: Developed to help childs and adults have a better sleep. It was developed using SwiftUI and AVFoundation. 
   https://apps.apple.com/ao/app/sonnus/id6443548611
   
