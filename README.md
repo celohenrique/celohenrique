@@ -43,5 +43,5 @@
   Sonnus App: Developed to help childs and adults have a better sleep. It was developed using SwiftUI and AVFoundation. 
   https://apps.apple.com/ao/app/sonnus/id6443548611
   
-  Eyes on you: 2D game developed using SpriteKit.
+  Eyes on you: 2D infinity run game with a horror theme. It was developed using SpriteKit.
   https://apps.apple.com/br/app/eyes-on-you/id1658391751?l=en
