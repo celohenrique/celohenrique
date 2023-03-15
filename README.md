@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on Apple Developer Academy as a iOS Developer
 - 🌱 I’m currently learning Unit tests and UITest in Swift
-- 💬 Ask me about UIKit, SwiftUI, ARKit, SpriteKit, C, Arduino, Python, OpenCV, YOLO, Computer Vision and AWS.
+- 💬 Ask me about UIKit, SwiftUI, ARKit, SpriteKit, C, Arduino, Python, Flask, FlaskRestFul, FastAPI, OpenCV, YOLO, Computer Vision and AWS.
 - 📫 Reach me on: 
   <div id="badges">
   <a href="https://www.linkedin.com/in/marceloharaujo/">
