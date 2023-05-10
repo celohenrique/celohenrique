@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on Apple Developer Academy as a iOS Developer
 - 🌱 I’m currently learning Unit tests and UITest in Swift
-- 💬 Ask me about UIKit, SwiftUI, ARKit, SpriteKit, C, Arduino, Python, Flask, FlaskRestFul, FastAPI, OpenCV, YOLO, Computer Vision and AWS.
+- 💬 Ask me about UIKit, SwiftUI, ARKit, SpriteKit, C, Arduino, Python, Flask, FlaskRestFul, FastAPI, OpenCV, YOLO, Computer Vision, AWS, Docker, XCTest and CI/CD.
 - 📫 Reach me on: 
   <div id="badges">
   <a href="https://www.linkedin.com/in/marceloharaujo/">
@@ -45,3 +45,6 @@
   
   Eyes on you: 2D infinity run game with a horror theme. It was developed using SpriteKit.                             
   https://apps.apple.com/br/app/eyes-on-you/id1658391751?l=en
+  
+  Theous: A educational application about Greek mythology that aims to teach through mini games.
+  https://apps.apple.com/br/app/theous/id6447220510
