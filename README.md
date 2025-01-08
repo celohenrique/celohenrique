@@ -10,13 +10,13 @@
 ### Hi there 👋
   
 ### 💻 About Me :
-  I'm a bachelor's student in computer engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-  
+  I'm a software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+- BEng in Computer Engineering
 - Top 1 🥇 Hackathon "The code force" by Santander
 - Top 1 🥇 Hackathon "Potência Hack" by iFood
 - Top 3 🥉 Hackathon "GERMAN-BRAZILIAN EdTECH" by TUM São Paulo
-- 🔭 I’m currently working on Apple Developer Academy as a iOS Developer
-- 🌱 I’m currently learning Unit tests and UITest in Swift
+
+
 - 💬 Ask me about UIKit, SwiftUI, ARKit, SpriteKit, C, Arduino, Python, Flask, FlaskRestFul, FastAPI, OpenCV, YOLO, Computer Vision, AWS, Docker, XCTest and CI/CD.
 - 📫 Reach me on: 
   <div id="badges">
